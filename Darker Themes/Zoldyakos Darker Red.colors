@@ -15,7 +15,7 @@ ForegroundNormal=210,210,210
 [Colors:View]
 BackgroundAlternate=37,35,35
 BackgroundNormal=62,60,60
-ForegroundLink=220,60,80
+ForegroundLink=250,70,85
 ForegroundNormal=200,200,200
 
 [Colors:Window]

@@ -5,17 +5,17 @@ ColorAmount=0.1
 ColorEffect=1
 
 [Colors:Button]
-BackgroundNormal=34,34,34
+BackgroundNormal=25,25,25
 ForegroundNormal=190,190,190
 
 [Colors:Selection]
-BackgroundNormal=130,70,205,150
-ForegroundNormal=200,200,200,240
+BackgroundNormal=90,75,190
+ForegroundNormal=200,200,200
 
 [Colors:View]
-BackgroundAlternate=42,42,42
-BackgroundNormal=35,35,35
-ForegroundLink=130,70,205,220
+BackgroundAlternate=25,24,27
+BackgroundNormal=50,49,52
+ForegroundLink=120,110,255
 ForegroundNormal=200,200,200
 
 [Colors:Window]

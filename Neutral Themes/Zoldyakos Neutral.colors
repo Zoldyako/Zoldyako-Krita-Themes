@@ -1,26 +1,28 @@
 [ColorEffects:Inactive]
 ChangeSelectionColor=false
-Color=31,59,154
-ColorAmount=0.1
-ColorEffect=1
+
 
 [Colors:Button]
-BackgroundNormal=130,130,130
-ForegroundNormal=10,10,10
+BackgroundNormal=128,128,128
+ForegroundNormal=0
+
 
 [Colors:Selection]
-BackgroundNormal=180,180,180,220
-ForegroundNormal=10,10,10
+BackgroundNormal=180,180,180
+ForegroundNormal=0
+
 
 [Colors:View]
 BackgroundAlternate=100,100,100
-BackgroundNormal=115,115,115
+BackgroundNormal=150,150,150 
 ForegroundLink=220,220,220,200
-ForegroundNormal=10,10,10
+ForegroundNormal=0
+
 
 [Colors:Window]
 BackgroundNormal=128,128,128
-ForegroundNormal=10,10,10
+ForegroundNormal=0
+
 
 [General]
 Name=Zoldyako's Neutral

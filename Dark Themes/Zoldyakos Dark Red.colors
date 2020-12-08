@@ -9,13 +9,13 @@ BackgroundNormal=50,50,50
 ForegroundNormal=200,200,200
 
 [Colors:Selection]
-BackgroundNormal=210,50,65,150
-ForegroundNormal=225,225,225
+BackgroundNormal=190,60,65
+ForegroundNormal=220,220,220
 
 [Colors:View]
-BackgroundAlternate=35,35,35
-BackgroundNormal=75,75,75
-ForegroundLink=230,50,70
+BackgroundAlternate=55,55,55
+BackgroundNormal=80,80,80
+ForegroundLink=255,50,80
 ForegroundNormal=210,210,210
 
 [Colors:Window]

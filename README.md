@@ -8,9 +8,9 @@ later I'll add for this README:
 - Maybe how to make your own themes
 
 How to install:
-    - Open Krita, go to: Settings > Manage Resources > Open Resources Folder
-    - Open the “color-schemes” folder
-    - Copy and paste the themes' zip file
-    - Extract the zip file
-    - Close and open Krita again to Krita load the themes
-    - Then go to Settings > Themes > Chose your theme!
+- Open Krita, go to: Settings > Manage Resources > Open Resources Folder
+- Open the "color-schemes" folder
+- Copy and paste the themes' zip file
+- Extract the zip file
+- Close and open Krita again to Krita load the themes
+- Then go to Settings > Themes > Chose your theme!

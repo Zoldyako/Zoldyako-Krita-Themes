@@ -1,0 +1,26 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=61,89,184
+ColorAmount=0.1
+ColorEffect=1
+
+[Colors:Button]
+BackgroundNormal=50,50,50
+ForegroundNormal=200,200,200
+
+[Colors:Selection]
+BackgroundNormal=210,50,65,150
+ForegroundNormal=225,225,225
+
+[Colors:View]
+BackgroundAlternate=35,35,35
+BackgroundNormal=75,75,75
+ForegroundLink=230,50,70
+ForegroundNormal=210,210,210
+
+[Colors:Window]
+BackgroundNormal=55,55,55
+ForegroundNormal=220,220,220
+
+[General]
+Name=Zoldyako's Dark Red

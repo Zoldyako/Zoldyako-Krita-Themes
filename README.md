@@ -1,9 +1,9 @@
 # Zoldyako's Themes for Krita
 
-This repository will be the default place for download my themes for Krita. 
+This repository will be the default place for downloading my themes for Krita. 
 
 later I'll add for this README:
-- Prints of the themes
+- Screenshots of the themes
 - How to install the themes (DONE)
 - Maybe how to make your own themes
 

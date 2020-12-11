@@ -1,26 +1,28 @@
 [ColorEffects:Inactive]
 ChangeSelectionColor=false
-Color=31,59,154
-ColorAmount=0.1
-ColorEffect=1
+
 
 [Colors:Button]
-BackgroundNormal=50,50,50
+BackgroundNormal=42,42,46
 ForegroundNormal=200,200,200
 
+
 [Colors:Selection]
-BackgroundNormal=50,90,200,150
-ForegroundNormal=225,225,225
+BackgroundNormal=40,90,185
+ForegroundNormal=220,220,220
+
 
 [Colors:View]
-BackgroundAlternate=40,40,40
-BackgroundNormal=75,75,75
-ForegroundLink=80,130,255
-ForegroundNormal=210,210,210
+BackgroundAlternate=43,43,47
+BackgroundNormal=70,70,75
+ForegroundLink=90,160,255
+ForegroundNormal=200,200,200
+
 
 [Colors:Window]
-BackgroundNormal=55,55,55
-ForegroundNormal=220,220,220
+BackgroundNormal=43,43,47
+ForegroundNormal=200,200,200
+
 
 [General]
 Name=Zoldyako's Dark Blue

@@ -1,26 +1,28 @@
 [ColorEffects:Inactive]
 ChangeSelectionColor=false
-Color=31,59,154
-ColorAmount=0.1
-ColorEffect=1
+
 
 [Colors:Button]
-BackgroundNormal=34,34,34
-ForegroundNormal=200,200,200
+BackgroundNormal=35,32,36
+ForegroundNormal=180,180,180
+
 
 [Colors:Selection]
-BackgroundNormal=130,70,205,150
-ForegroundNormal=210,210,210
-
-[Colors:View]
-BackgroundAlternate=15,15,15
-BackgroundNormal=55,55,55
-ForegroundLink=180,100,255,220
+BackgroundNormal=90,75,190
 ForegroundNormal=200,200,200
 
-[Colors:Window]
-BackgroundNormal=40,40,40
+
+[Colors:View]
+BackgroundAlternate=37,34,38
+BackgroundNormal=63,59,64
+ForegroundLink=120,110,255
 ForegroundNormal=180,180,180
+
+
+[Colors:Window]
+BackgroundNormal=35,32,36
+ForegroundNormal=180,180,180
+
 
 [General]
 Name=Zoldyako's Darker Purple

@@ -1,26 +1,28 @@
 [ColorEffects:Inactive]
 ChangeSelectionColor=false
-Color=31,59,154
-ColorAmount=0.1
-ColorEffect=1
+
 
 [Colors:Button]
-BackgroundNormal=34,34,34
+BackgroundNormal=36,32,34
 ForegroundNormal=180,180,180
+
 
 [Colors:Selection]
-BackgroundNormal=210,45,100,150
-ForegroundNormal=210,210,210
-
-[Colors:View]
-BackgroundAlternate=15,15,15
-BackgroundNormal=55,55,55
-ForegroundLink=215,55,105,220
+BackgroundNormal=165,50,115
 ForegroundNormal=200,200,200
 
-[Colors:Window]
-BackgroundNormal=40,40,40
+
+[Colors:View]
+BackgroundAlternate=38,34,36
+BackgroundNormal=62,58,61
+ForegroundLink=250,80,150
 ForegroundNormal=180,180,180
+
+
+[Colors:Window]
+BackgroundNormal=36,32,34
+ForegroundNormal=180,180,180
+
 
 [General]
 Name=Zoldyako's Darker Pink

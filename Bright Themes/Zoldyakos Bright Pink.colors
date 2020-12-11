@@ -3,26 +3,26 @@ ChangeSelectionColor=false
 
 
 [Colors:Button]
-BackgroundNormal=128,128,128
+BackgroundNormal=230,230,230
 ForegroundNormal=0
 
 
 [Colors:Selection]
-BackgroundNormal=195,195,195
+BackgroundNormal=250,130,210,160
 ForegroundNormal=0
 
 
 [Colors:View]
-BackgroundAlternate=180,180,180
-BackgroundNormal=150,150,150 
-ForegroundLink=25,25,25
+BackgroundAlternate=230,230,230
+BackgroundNormal=255,255,255
+ForegroundLink=225,100,140
 ForegroundNormal=0
 
 
 [Colors:Window]
-BackgroundNormal=128,128,128
+BackgroundNormal=230,230,230
 ForegroundNormal=0
 
 
 [General]
-Name=Zoldyako's Neutral
+Name=Zoldyako's Bright Pink

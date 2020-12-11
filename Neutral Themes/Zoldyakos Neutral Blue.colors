@@ -8,14 +8,14 @@ ForegroundNormal=0
 
 
 [Colors:Selection]
-BackgroundNormal=195,195,195
-ForegroundNormal=0
+BackgroundNormal=0,60,160,200
+ForegroundNormal=195,195,195
 
 
 [Colors:View]
 BackgroundAlternate=180,180,180
 BackgroundNormal=150,150,150 
-ForegroundLink=25,25,25
+ForegroundLink=0,50,150
 ForegroundNormal=0
 
 
@@ -25,4 +25,4 @@ ForegroundNormal=0
 
 
 [General]
-Name=Zoldyako's Neutral
+Name=Zoldyako's Neutral Blue

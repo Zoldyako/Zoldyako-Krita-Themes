@@ -3,26 +3,26 @@ ChangeSelectionColor=false
 
 
 [Colors:Button]
-BackgroundNormal=30,25,25
+BackgroundNormal=42,42,42,50   
 ForegroundNormal=180,180,180
 
 
 [Colors:Selection]
-BackgroundNormal=175,40,55
-ForegroundNormal=210,210,210
+BackgroundNormal=92,111,153
+ForegroundNormal=200,200,200
 
 
 [Colors:View]
-BackgroundAlternate=30,25,25
-BackgroundNormal=55,50,50
-ForegroundLink=250,70,85
+BackgroundAlternate=44,44,44
+BackgroundNormal=36,36,36
+ForegroundLink=90,160,255
 ForegroundNormal=180,180,180
 
 
 [Colors:Window]
-BackgroundNormal=30,25,25
+BackgroundNormal=50,50,50
 ForegroundNormal=180,180,180
 
 
 [General]
-Name=Zoldyako's Goth Red
+Name=ClipStudio Dark

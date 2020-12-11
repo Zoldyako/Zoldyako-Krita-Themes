@@ -1,0 +1,26 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=31,59,154
+ColorAmount=0.1
+ColorEffect=1
+
+[Colors:Button]
+BackgroundNormal=34,34,34
+ForegroundNormal=190,190,190
+
+[Colors:Selection]
+BackgroundNormal=200,40,60,150
+ForegroundNormal=200,200,200
+
+[Colors:View]
+BackgroundAlternate=42,42,42
+BackgroundNormal=35,35,35
+ForegroundLink=200,40,60,200
+ForegroundNormal=200,200,200
+
+[Colors:Window]
+BackgroundNormal=25,25,25
+ForegroundNormal=165,165,165
+
+[General]
+Name=Zoldyako's Goth Red

@@ -4,6 +4,7 @@ This repository will be the default place for downloading my themes for Krita.
 
 later I'll add for this README:
 - Screenshots of the themes
+- How to download the themes
 - How to install the themes (DONE)
 - Maybe how to make your own themes
 

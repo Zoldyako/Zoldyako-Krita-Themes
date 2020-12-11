@@ -3,24 +3,24 @@ ChangeSelectionColor=false
 
 
 [Colors:Button]
-BackgroundNormal=240,240,240
+BackgroundNormal=230,230,230
 ForegroundNormal=0
 
 
 [Colors:Selection]
-BackgroundNormal=80,180,230,150
+BackgroundNormal=80,210,255,140
 ForegroundNormal=0
 
 
 [Colors:View]
-BackgroundAlternate=200,200,200
-BackgroundNormal=240,240,240
-ForegroundLink=60,165,230
+BackgroundAlternate=230,230,230
+BackgroundNormal=255,255,255
+ForegroundLink=40,160,220
 ForegroundNormal=0
 
 
 [Colors:Window]
-BackgroundNormal=220,220,220
+BackgroundNormal=230,230,230
 ForegroundNormal=0
 
 

@@ -1,26 +1,28 @@
 [ColorEffects:Inactive]
 ChangeSelectionColor=false
-Color=31,59,154
-ColorAmount=0.1
-ColorEffect=1
+
 
 [Colors:Button]
-BackgroundNormal=25,25,25
-ForegroundNormal=190,190,190
+BackgroundNormal=25,25,30
+ForegroundNormal=180,180,180
+
 
 [Colors:Selection]
 BackgroundNormal=40,90,185
-ForegroundNormal=200,200,200
+ForegroundNormal=210,210,210
+
 
 [Colors:View]
-BackgroundAlternate=25,25,27
-BackgroundNormal=50,50,52
+BackgroundAlternate=25,25,30
+BackgroundNormal=50,50,55
 ForegroundLink=60,140,255
-ForegroundNormal=200,200,200
+ForegroundNormal=180,180,180
+
 
 [Colors:Window]
-BackgroundNormal=25,25,25
-ForegroundNormal=165,165,165
+BackgroundNormal=25,25,30
+ForegroundNormal=180,180,180
+
 
 [General]
 Name=Zoldyako's Goth Blue

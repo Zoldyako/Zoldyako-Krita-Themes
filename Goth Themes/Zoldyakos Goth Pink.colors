@@ -1,26 +1,28 @@
 [ColorEffects:Inactive]
 ChangeSelectionColor=false
-Color=31,59,154
-ColorAmount=0.1
-ColorEffect=1
+
 
 [Colors:Button]
-BackgroundNormal=25,25,25
-ForegroundNormal=190,190,190
+BackgroundNormal=28,25,26
+ForegroundNormal=180,180,180
+
 
 [Colors:Selection]
-BackgroundNormal=200,60,110
-ForegroundNormal=200,200,200
+BackgroundNormal=165,50,115
+ForegroundNormal=210,210,210
+
 
 [Colors:View]
-BackgroundAlternate=26,25,25
-BackgroundNormal=51,48,50 
+BackgroundAlternate=28,25,26
+BackgroundNormal=52,48,51
 ForegroundLink=250,80,150
-ForegroundNormal=200,200,200
+ForegroundNormal=180,180,180
+
 
 [Colors:Window]
-BackgroundNormal=25,25,25
-ForegroundNormal=165,165,165
+BackgroundNormal=28,25,26
+ForegroundNormal=180,180,180
+
 
 [General]
 Name=Zoldyako's Goth Pink

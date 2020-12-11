@@ -1,26 +1,28 @@
 [ColorEffects:Inactive]
 ChangeSelectionColor=false
-Color=31,59,154
-ColorAmount=0.1
-ColorEffect=1
+
 
 [Colors:Button]
-BackgroundNormal=25,25,25
-ForegroundNormal=190,190,190
+BackgroundNormal=28,25,29
+ForegroundNormal=180,180,180
+
 
 [Colors:Selection]
 BackgroundNormal=90,75,190
-ForegroundNormal=200,200,200
+ForegroundNormal=210,210,210
+
 
 [Colors:View]
-BackgroundAlternate=25,24,27
-BackgroundNormal=50,49,52
+BackgroundAlternate=28,25,29
+BackgroundNormal=53,49,54
 ForegroundLink=120,110,255
-ForegroundNormal=200,200,200
+ForegroundNormal=180,180,180
+
 
 [Colors:Window]
-BackgroundNormal=25,25,25
-ForegroundNormal=165,165,165
+BackgroundNormal=28,25,29
+ForegroundNormal=180,180,180
+
 
 [General]
 Name=Zoldyako's Goth Purple

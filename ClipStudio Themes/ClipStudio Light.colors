@@ -3,26 +3,26 @@ ChangeSelectionColor=false
 
 
 [Colors:Button]
-BackgroundNormal=230,230,230
+BackgroundNormal=245,245,245
 ForegroundNormal=0
 
 
 [Colors:Selection]
-BackgroundNormal=255,25,20,160
+BackgroundNormal=115,180,230
 ForegroundNormal=0
 
 
 [Colors:View]
-BackgroundAlternate=230,230,230
-BackgroundNormal=255,255,255
-ForegroundLink=235,70,70
+BackgroundAlternate=240 ,240,240
+BackgroundNormal=222,222,222
+ForegroundLink=40,160,220
 ForegroundNormal=0
 
 
 [Colors:Window]
-BackgroundNormal=230,230,230
+BackgroundNormal=235,235,235
 ForegroundNormal=0
 
 
 [General]
-Name=Zoldyako's Bright Red
+Name=ClipStudio Light

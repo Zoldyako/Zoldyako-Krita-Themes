@@ -4,7 +4,7 @@ ChangeSelectionColor=false
 
 [Colors:Button]
 BackgroundNormal=46,42,44
-ForegroundNormal=220,220,220
+ForegroundNormal=200,200,200
 
 
 [Colors:Selection]
@@ -16,12 +16,12 @@ ForegroundNormal=220,220,220
 BackgroundAlternate=46,42,44
 BackgroundNormal=73,68,71
 ForegroundLink=240,80,165
-ForegroundNormal=220,220,220
+ForegroundNormal=200,200,200
 
 
 [Colors:Window]
 BackgroundNormal=46,42,44
-ForegroundNormal=220,220,220
+ForegroundNormal=200,200,200
 
 
 [General]

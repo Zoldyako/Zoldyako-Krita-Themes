@@ -3,26 +3,26 @@ ChangeSelectionColor=false
 
 
 [Colors:Button]
-BackgroundNormal=30,25,25
+BackgroundNormal=30,26,25
 ForegroundNormal=180,180,180
 
 
 [Colors:Selection]
-BackgroundNormal=230,130,65
+BackgroundNormal=219,119,57
 ForegroundNormal=0
 
 
 [Colors:View]
-BackgroundAlternate=30,25,25
+BackgroundAlternate=30,26,25
 BackgroundNormal=58,53,50
-ForegroundLink=250,70,85
-ForegroundNormal=210,210,210,235
+ForegroundLink=230,130,70
+ForegroundNormal=240,240,240
 
 
 [Colors:Window]
-BackgroundNormal=30,25,25
+BackgroundNormal=30,26,25
 ForegroundNormal=180,180,180
 
 
 [General]
-Name=Zoldyako's Goth Red
+Name=Zoldyako's Goth Orange

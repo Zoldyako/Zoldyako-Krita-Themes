@@ -8,15 +8,15 @@ ForegroundNormal=180,180,180
 
 
 [Colors:Selection]
-BackgroundNormal=40,90,185
-ForegroundNormal=210,210,210
+BackgroundNormal=65,145,195
+ForegroundNormal=0
 
 
 [Colors:View]
 BackgroundAlternate=25,25,30
 BackgroundNormal=50,50,55
-ForegroundLink=60,140,255
-ForegroundNormal=180,180,180
+ForegroundLink=85,165,225
+ForegroundNormal=210,210,210,235
 
 
 [Colors:Window]

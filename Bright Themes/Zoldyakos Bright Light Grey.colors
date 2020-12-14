@@ -3,26 +3,26 @@ ChangeSelectionColor=false
 
 
 [Colors:Button]
-BackgroundNormal=128,128,128
+BackgroundNormal=230,230,230
 ForegroundNormal=0
 
 
 [Colors:Selection]
-BackgroundNormal=215,75,80
+BackgroundNormal=190,190,192
 ForegroundNormal=0
 
 
 [Colors:View]
-BackgroundAlternate=180,180,180
-BackgroundNormal=150,150,150 
-ForegroundLink=130,10,15
+BackgroundAlternate=230,230,230
+BackgroundNormal=255,255,255
+ForegroundLink=60,60,62
 ForegroundNormal=0
 
 
 [Colors:Window]
-BackgroundNormal=128,128,128
+BackgroundNormal=230,230,230
 ForegroundNormal=0
 
 
 [General]
-Name=Zoldyako's Neutral Red
+Name=Zoldyako's Bright Light Grey

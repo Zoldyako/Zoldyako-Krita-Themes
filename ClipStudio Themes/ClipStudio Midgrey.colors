@@ -3,26 +3,26 @@ ChangeSelectionColor=false
 
 
 [Colors:Button]
-BackgroundNormal=128,128,128
+BackgroundNormal=174,174,174
 ForegroundNormal=0
 
 
 [Colors:Selection]
-BackgroundNormal=215,75,80
+BackgroundNormal=173,195,215 
 ForegroundNormal=0
 
 
 [Colors:View]
-BackgroundAlternate=180,180,180
-BackgroundNormal=150,150,150 
-ForegroundLink=130,10,15
+BackgroundAlternate=195,195,195
+BackgroundNormal=168,168,168
+ForegroundLink=53,105,160
 ForegroundNormal=0
 
 
 [Colors:Window]
-BackgroundNormal=128,128,128
+BackgroundNormal=188,188,188
 ForegroundNormal=0
 
 
 [General]
-Name=Zoldyako's Neutral Red
+Name=ClipStudio MidGrey

@@ -8,14 +8,14 @@ ForegroundNormal=0
 
 
 [Colors:Selection]
-BackgroundNormal=0,60,160,200
-ForegroundNormal=195,195,195
+BackgroundNormal=75,155,205
+ForegroundNormal=0
 
 
 [Colors:View]
 BackgroundAlternate=180,180,180
 BackgroundNormal=150,150,150 
-ForegroundLink=0,50,150
+ForegroundLink=5,95,145
 ForegroundNormal=0
 
 

@@ -9,8 +9,9 @@ later I'll add for this README:
 - Maybe how to make your own themes
 
 ### How to download
-- Click on the green button "Code"
-- Then click on "Download Zip" 
+- Go to [Themes Release Page](https://github.com/Zoldyako/Zoldyako-Krita-Themes/releases/tag/v2)
+- Click on the themes you want to download
+- You done! :D
 
 ### How to install:
 - Open Krita, go to: Settings > Manage Resources > Open Resources Folder

@@ -1,13 +1,5 @@
 # Zoldyako's Themes for Krita
 
-This repository will be the default place for downloading my themes for Krita. 
-
-later I'll add for this README:
-- Screenshots of the themes
-- How to download the themes (DONE)
-- How to install the themes (DONE)
-- Maybe how to make your own themes
-
 ### How to download
 - Go to [Themes Release Page](https://github.com/Zoldyako/Zoldyako-Krita-Themes/releases/tag/v2)
 - Click on the themes you want to download
@@ -21,3 +13,24 @@ later I'll add for this README:
 - Close and open Krita again to Krita load the themes
 - Then go to Settings > Themes > Chose your theme!
 - I recomend you to delete the themes you don't want
+
+
+# Themes Showcase
+
+### Bright Themes
+![Bright Themes](https://media.giphy.com/media/hagoTcyX1HVxPyIF4v/giphy.gif) 
+
+### Dark Themes
+![Dark Themes](https://media.giphy.com/media/6HRFNpnO3zbiTpFJq3/giphy.gif)
+
+### Darker Themes
+![Darker Themes](https://media.giphy.com/media/20t5FovLbnbKOJkYw5/giphy.gif)
+
+### Goth Themes
+![Goth Themes](https://media.giphy.com/media/CSsASYEl01uEyRgIGG/giphy.gif)
+
+### Neutral Themes
+![Neutral Themes](https://media.giphy.com/media/gEd8lhG4UoOTimZeAN/giphy.gif)
+
+### ClipStudio Themes
+![ClipStudio Themes](https://media.giphy.com/media/47KrKTjV9nenspWpPY/giphy.gif)

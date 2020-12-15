@@ -14,6 +14,25 @@
 - Then go to Settings > Themes > Chose your theme!
 - I recomend you to delete the themes you don't want
 
+**I'm not a fan of how Krita themes look by default, so I made some themes :P.** 
+Now we have a total of 8 accent colors for each themes + the 3 themes based on ClipStudio Colors
+
+### Themes
+- Bright
+- Dark
+- Darker 
+- Goth
+- Neutral
+- ClipStudio 
+### Accent Colors
+- Blue
+- Green
+- Light Grey
+- Orange
+- Pink
+- Purple
+- Red
+- Yellow
 
 # Themes Showcase
 
@@ -34,3 +53,5 @@
 
 ### ClipStudio Themes
 ![ClipStudio Themes](https://media.giphy.com/media/47KrKTjV9nenspWpPY/giphy.gif)
+
+**YOU CAN MODIFY ANY OF THESE FILES, BUT IF YOU SHARE THESE THEMES PLEASE CREDIT ME! @zoldyako IN ANY SOCIAL MEDIA**

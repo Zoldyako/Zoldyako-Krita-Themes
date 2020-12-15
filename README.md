@@ -34,6 +34,8 @@ Now we have a total of 8 accent colors for each themes + the 3 themes based on C
 - Red
 - Yellow
 
+**YOU CAN MODIFY ANY OF THESE FILES, BUT IF YOU SHARE THESE THEMES PLEASE CREDIT ME! @zoldyako IN ANY SOCIAL MEDIA**
+
 # Themes Showcase
 
 ### Bright Themes
@@ -53,5 +55,3 @@ Now we have a total of 8 accent colors for each themes + the 3 themes based on C
 
 ### ClipStudio Themes
 ![ClipStudio Themes](https://media.giphy.com/media/47KrKTjV9nenspWpPY/giphy.gif)
-
-**YOU CAN MODIFY ANY OF THESE FILES, BUT IF YOU SHARE THESE THEMES PLEASE CREDIT ME! @zoldyako IN ANY SOCIAL MEDIA**

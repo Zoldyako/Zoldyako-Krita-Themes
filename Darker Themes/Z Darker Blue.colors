@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 35,35,36
+ForegroundNormal     = 255,255,255,140
+
+
+[Colors:Selection]
+BackgroundNormal     = 40,120,190
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 35,35,36
+BackgroundNormal     = 53,53,55
+ForegroundLink       = 75,155,230
+ForegroundNormal     = 255,255,255,140
+
+
+[Colors:Window]
+BackgroundNormal     = 35,35,36
+ForegroundNormal     = 255,255,255,140
+
+
+[General]
+Name                 = Z Darker Blue

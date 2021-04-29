@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 36,34,35
+ForegroundNormal     = 255,255,255,140
+
+
+[Colors:Selection]
+BackgroundNormal     = 205,90,125
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 36,34,35
+BackgroundNormal     = 56,54,55
+ForegroundLink       = 220,95,130
+ForegroundNormal     = 255,255,255,140
+
+
+[Colors:Window]
+BackgroundNormal     = 36,34,35
+ForegroundNormal     = 255,255,255,140
+
+
+[General]
+Name                 = Z Darker Pink

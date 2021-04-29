@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 128,128,128
+ForegroundNormal     = 0
+
+
+[Colors:Selection]
+BackgroundNormal     = 225,115,155
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 164,164,164
+BackgroundNormal     = 144,144,144
+ForegroundLink       = 130,20,90
+ForegroundNormal     = 0
+
+
+[Colors:Window]
+BackgroundNormal     = 128,128,128
+ForegroundNormal     = 0
+
+
+[General]
+Name                 = Z Neutral Pink

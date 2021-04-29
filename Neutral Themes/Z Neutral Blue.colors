@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 128,128,128
+ForegroundNormal     = 0
+
+
+[Colors:Selection]
+BackgroundNormal     = 85,165,215
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 164,164,164
+BackgroundNormal     = 144,144,144
+ForegroundLink       = 20,50,150
+ForegroundNormal     = 0
+
+
+[Colors:Window]
+BackgroundNormal     = 128,128,128
+ForegroundNormal     = 0
+
+
+[General]
+Name                 = Z Neutral Blue

@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 225,225,225
+ForegroundNormal     = 0
+
+
+[Colors:Selection]
+BackgroundNormal     = 100,85,230,140
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 220,220,220
+BackgroundNormal     = 240,240,240
+ForegroundLink       = 90,40,120
+ForegroundNormal     = 0
+
+
+[Colors:Window]
+BackgroundNormal     = 230,230,230
+ForegroundNormal     = 0
+
+
+[General]
+Name                 = Z Bright Purple

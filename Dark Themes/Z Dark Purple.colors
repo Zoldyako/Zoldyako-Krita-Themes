@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 44,43,46
+ForegroundNormal     = 255,255,255,165
+
+
+[Colors:Selection]
+BackgroundNormal     = 110,115,190
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 44,43,46
+BackgroundNormal     = 64,63,66
+ForegroundLink       = 145,130,205
+ForegroundNormal     = 255,255,255,165
+
+
+[Colors:Window]
+BackgroundNormal     = 44,43,46
+ForegroundNormal     = 255,255,255,165
+
+
+[General]
+Name                 = Z Dark Purple

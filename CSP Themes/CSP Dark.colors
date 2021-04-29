@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal = 34,34,34
+ForegroundNormal = 255,255,255,165
+
+
+[Colors:Selection]
+BackgroundNormal = 65,75,100
+ForegroundNormal = 255,255,255,165
+
+
+[Colors:View]
+BackgroundAlternate = 44,44,44
+BackgroundNormal = 34,34,34
+ForegroundLink = 255,255,255,165
+ForegroundNormal = 255,255,255,165
+
+
+[Colors:Window]
+BackgroundNormal = 48,48,48
+ForegroundNormal = 255,255,255,165
+
+
+[General]
+Name = CSP Dark

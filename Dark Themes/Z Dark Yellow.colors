@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 46,45,43
+ForegroundNormal     = 255,255,255,165
+
+
+[Colors:Selection]
+BackgroundNormal     = 215,175,80
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 46,45,43
+BackgroundNormal     = 66,65,63
+ForegroundLink       = 210,175,80
+ForegroundNormal     = 255,255,255,165
+
+
+[Colors:Window]
+BackgroundNormal     = 46,45,43
+ForegroundNormal     = 255,255,255,165
+
+
+[General]
+Name                 = Z Dark Yellow

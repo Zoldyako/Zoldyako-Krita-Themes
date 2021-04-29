@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal = 175,175,175
+ForegroundNormal = 0
+
+
+[Colors:Selection]
+BackgroundNormal = 173,195,215
+ForegroundNormal = 0
+
+
+[Colors:View]
+BackgroundAlternate = 190,190,190
+BackgroundNormal = 170,170,170
+ForegroundLink = 0
+ForegroundNormal = 0
+
+
+[Colors:Window]
+BackgroundNormal = 185,185,185
+ForegroundNormal = 0
+
+
+[General]
+Name = CSP MidGrey

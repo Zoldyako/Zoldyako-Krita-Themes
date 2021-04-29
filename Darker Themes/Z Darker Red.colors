@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 35,33,33
+ForegroundNormal     = 255,255,255,140
+
+
+[Colors:Selection]
+BackgroundNormal     = 180,60,60
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 35,33,33
+BackgroundNormal     = 55,53,53
+ForegroundLink       = 200,75,75
+ForegroundNormal     = 255,255,255,140
+
+
+[Colors:Window]
+BackgroundNormal     = 35,33,33
+ForegroundNormal     = 255,255,255,140
+
+
+[General]
+Name                 = Z Darker Red

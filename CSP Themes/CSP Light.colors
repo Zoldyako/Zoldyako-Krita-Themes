@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal = 230,230,230
+ForegroundNormal = 0
+
+
+[Colors:Selection]
+BackgroundNormal = 185,205,230
+ForegroundNormal = 0
+
+
+[Colors:View]
+BackgroundAlternate = 250 ,250,250
+BackgroundNormal = 230,230,230
+ForegroundLink = 50,50,50
+ForegroundNormal = 0
+
+
+[Colors:Window]
+BackgroundNormal = 240,240,240
+ForegroundNormal = 0
+
+
+[General]
+Name = CSP Light

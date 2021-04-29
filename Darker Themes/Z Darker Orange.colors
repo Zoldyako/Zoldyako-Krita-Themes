@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 36,35,34
+ForegroundNormal     = 255,255,255,140
+
+
+[Colors:Selection]
+BackgroundNormal     = 210,112,58
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 36,35,34
+BackgroundNormal     = 56,55,54
+ForegroundLink       = 220,120,70
+ForegroundNormal     = 255,255,255,140
+
+
+[Colors:Window]
+BackgroundNormal     = 36,35,34
+ForegroundNormal     = 255,255,255,145
+
+
+[General]
+Name                 = Z Darker Orange

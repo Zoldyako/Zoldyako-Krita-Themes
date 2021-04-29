@@ -1,0 +1,29 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = false
+
+
+[Colors:Button]
+BackgroundNormal     = 45,45,45
+ForegroundNormal     = 255,255,255,165
+
+
+[Colors:Selection]
+BackgroundNormal     = 120,120,120
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 44,44,44
+BackgroundNormal     = 65,65,65
+ForegroundLink       = 175,175,175
+ForegroundNormal     = 255,255,255,165
+
+
+[Colors:Window]
+BackgroundNormal     = 45,45,45
+ForegroundNormal     = 255,255,255,165
+
+
+[General]
+Name                 = Z Dark Grey
+

@@ -1,43 +1,32 @@
 # Zoldyako's Themes for Krita
 
+**You can modify and redistribuite any of these files, I only ask you to credit me :) @zoldyako in any social media**
+
 ### How to download
-- Go to [Themes Release Page](https://github.com/Zoldyako/Zoldyako-Krita-Themes/releases/tag/v2)
-- Click on the themes you want to download
-- You done! :D
+- Go to [Themes Release Page](https://github.com/Zoldyako/Zoldyako-Krita-Themes/releases)
+- Look for "Assets" (in case it is collapsed just click it)
+- Select the themes you want to download
+- You're done! :)
 
-### How to install:
-- Open Krita, go to: Settings > Manage Resources > Open Resources Folder
-- Open the "color-schemes" folder
-- If you have the themes with the old names delete them and replace it with the new ones
-- Copy and paste the themes' zip file
-- Extract the zip file
-- Close and open Krita again to Krita load the themes
-- Then go to Settings > Themes > Chose your theme!
-- I recomend you to delete the themes you don't want
+### How to install and use:
+1. In Krita, look to the menu bar at the very top
+2. Select: Settings > Manage Resources
+3. With the Manage Resource window open, select the "Open Resource Folder"
+4. Look for the "color-schemes" folder
+5. If you have my old themes I sugest you to delete them and replace it with the new ones
+6. Copy and paste the themes' zip file in the color-schemes folder
+7. Extract the .colors files from the zip file you downloaded  
+8. Now you need to close and re-open Krita for the themes to be available
+9. Then you just need to go to Settings > Themes > Chose your theme!
 
-**I'm not a fan of how Krita themes look by default, so I made some themes :P.** 
-Now we have a total of 8 accent colors for each theme + the 3 themes based on ClipStudio Colors
+(in case you downloaded the "all themes" file I recomend you to delete the themes you don't want after testing then)
 
 ### Themes
-- Bright
-- Dark
-- Darker 
-- Goth
-- Neutral
-- ClipStudio 
+> Bright | Dark | Darker | Goth | Neutral | ClipStudio 
 ### Accent Colors
-- Blue
-- Green
-- Light Grey
-- Orange
-- Pink
-- Purple
-- Red
-- Yellow
+> Blue | Green | Light Grey | Orange | Pink | Purple | Red | Yellow
 
-**YOU CAN MODIFY ANY OF THESE FILES, BUT IF YOU SHARE THESE THEMES PLEASE CREDIT ME! @zoldyako IN ANY SOCIAL MEDIA**
-
-# Themes Showcase
+## Themes Preview
 
 ### Bright Themes
 ![Bright Themes](https://media.giphy.com/media/9vGfI7ebOIGQN5oc2f/giphy.gif) 
